@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 6
+# Econometria Avançada - Aula 6 - Modelos Autorregressivos de Médias Móveis
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
